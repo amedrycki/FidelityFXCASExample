@@ -1,0 +1,3 @@
+[submodule "Plugins/FidelityFXCAS"]
+	path = Plugins/FidelityFXCAS
+	url = https://github.com/amedrycki/FidelityFXCAS.git
